@@ -1,4 +1,4 @@
-Programadores: [[Luna]]
+Programadores: [[Luna]], [[AlwaysLearning]]
 Artistas: [[Fubazita]]
 Direção: [[Gagarinha]], [[Luna]]
 
