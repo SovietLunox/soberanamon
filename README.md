@@ -47,7 +47,7 @@ Base: Heartgold
 - 
 ### Psiquico - Vinny
 - Vetrandor
-- 
+- Diana
 ### Planta - Bebel
 - Laranjeira
 - Tais
